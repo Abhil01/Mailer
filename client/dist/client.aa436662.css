@@ -1,0 +1,29 @@
+.KMZeWq_head {
+  text-align: center;
+  width: 100%;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.KMZeWq_mailer {
+  border: 1px solid #000;
+  justify-content: center;
+  width: 100%;
+  height: 200px;
+  display: flex;
+}
+
+.KMZeWq_container {
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  width: 50%;
+  display: flex;
+}
+
+.KMZeWq_container button {
+  color: #f5f5f5;
+  cursor: pointer;
+  background-color: green;
+}
+/*# sourceMappingURL=client.aa436662.css.map */

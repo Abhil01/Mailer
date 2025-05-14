@@ -1,0 +1,30 @@
+.head{
+    width:100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.mailer
+{
+    width:100%;
+    height:200px;
+    border:1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width:50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:10px;
+
+
+}
+
+.container button{
+    background-color: green;
+    color: whitesmoke;
+    cursor: pointer;
+}
